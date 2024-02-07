@@ -15,6 +15,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | # of Week |   Practice Name   |  
 |---	    |---	            |
 |1	        |  [Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)| 
+|2          |  [VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator) |
 
 #### Frontend Phase
 
