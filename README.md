@@ -14,7 +14,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 #### Backend Phase
 | # of Week |   Practice Name   |  
 |---	    |---	            |
-|1	        |  [Grade Point Average Calculator](#)| 
+|1	        |  [Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)| 
 
 #### Frontend Phase
 
