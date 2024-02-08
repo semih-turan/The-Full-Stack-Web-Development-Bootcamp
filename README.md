@@ -12,13 +12,17 @@ This repository serves as a comprehensive record of my learning journey, designe
 ### Table of Contents
 
 #### Backend Phase
-| # of Week |   Practice Name   |  
-|---	    |---	            |
-|1	        |  [Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)| 
-|2          |  [VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator) |
-|3          | [Triangle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TriangleArea)|
-|4          | [Taxi Meter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TaxiMeter)|
-|5          | [Circle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/CircleArea)|
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 1       | 1  |[Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)|
+| 1       | 2  |[VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator)|
+| 1       | 3  | [Triangle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TriangleArea)|
+| 1       | 4  | [Taxi Meter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TaxiMeter)|
+| 1       | 5  | [Circle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/CircleArea)|
+| 1       | 6  | [Body Mass Index](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/BodyMassIndex)|
+| 1       | 7  | [Green Grocer Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GreenGrocerCalculator)|
+| 1       | 8  | [Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Calculator)|
 
 #### Frontend Phase
 
