@@ -24,6 +24,9 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 7  | [Green Grocer Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GreenGrocerCalculator)|
 | 1       | 8  | [Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Calculator)|
 |1        | 9  | [Login](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Login)
+|1        | 10 | [Passing Grade](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PassingGrade)
+
+
 #### Frontend Phase
 
 ...waiting
