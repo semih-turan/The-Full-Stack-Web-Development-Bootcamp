@@ -27,6 +27,9 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 10 | [Passing Grade](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PassingGrade)
 | 1       | 11 |[Activity Recommendation](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ActivityRecommendation)|
 | 1       | 12 | [Horoscope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Horoscope)|
+| 1       | 13 | [Flight Ticket](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FlightTicket)|
+| 1       | 14 | [Chineese Zodiac](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Chinese%20Zodiac)|
+| 1       | 15 | [Bissextile](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Bissextile)|
 #### Frontend Phase
 
 ...waiting
