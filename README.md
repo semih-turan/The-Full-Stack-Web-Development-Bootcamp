@@ -30,6 +30,9 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 13 | [Flight Ticket](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FlightTicket)|
 | 1       | 14 | [Chineese Zodiac](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Chinese%20Zodiac)|
 | 1       | 15 | [Bissextile](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Bissextile)|
+| 1       | 16 | [Even Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/EvenNumbers)|
+| 1       | 17 | [Odd Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/OddNumbers)|
+| 1       | 18 | [Power Scope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PowerScope)|
 #### Frontend Phase
 
 ...waiting
