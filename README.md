@@ -41,6 +41,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 24 | [ATM](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ATM)|
 | 1       | 25 | [GDC and LCM Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GdcLcmCalculator)|
 | 1       | 26 | [Find Biggest Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FindBiggestNumber)|
+| 1       | 27 | [Perfect Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PerfectNumber)|
 #### Frontend Phase
 
 ...waiting
