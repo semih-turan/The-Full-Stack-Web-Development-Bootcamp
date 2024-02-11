@@ -38,7 +38,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 21 | [Digit Sum](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/DigitSum)|
 | 1       | 22 | [Harmonic Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/HarmonicSeries)|
 | 1       | 23 | [Diamond](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Diamond)|
-
+| 1       | 24 | [ATM](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ATM)|
 
 #### Frontend Phase
 
