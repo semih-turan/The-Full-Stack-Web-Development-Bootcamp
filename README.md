@@ -15,8 +15,8 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 1       | 1  |[Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)|
-| 1       | 2  |[VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator)|
+| 1       | 1  | [Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)|
+| 1       | 2  | [VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator)|
 | 1       | 3  | [Triangle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TriangleArea)|
 | 1       | 4  | [Taxi Meter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TaxiMeter)|
 | 1       | 5  | [Circle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/CircleArea)|
@@ -25,7 +25,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 8  | [Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Calculator)|
 | 1       | 9  | [Login](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Login)|
 | 1       | 10 | [Passing Grade](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PassingGrade)|
-| 1       | 11 |[Activity Recommendation](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ActivityRecommendation)|
+| 1       | 11 | [Activity Recommendation](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ActivityRecommendation)|
 | 1       | 12 | [Horoscope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Horoscope)|
 | 1       | 13 | [Flight Ticket](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FlightTicket)|
 | 1       | 14 | [Chineese Zodiac](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Chinese%20Zodiac)|
@@ -33,8 +33,13 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 16 | [Even Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/EvenNumbers)|
 | 1       | 17 | [Odd Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/OddNumbers)|
 | 1       | 18 | [Power Scope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PowerScope)|
-| 1       | 19 |[Combination](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Combination)|
-| 1       | 20 |[Exponents](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Exponents)| 
+| 1       | 19 | [Combination](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Combination)|
+| 1       | 20 | [Exponents](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Exponents)|
+| 1       | 21 | [Digit Sum](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/DigitSum)|
+| 1       | 22 | [Harmonic Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/HarmonicSeries)|
+| 1       | 23 | [Diamond](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Diamond)|
+
+
 #### Frontend Phase
 
 ...waiting
