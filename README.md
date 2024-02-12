@@ -44,6 +44,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 27 | [Perfect Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PerfectNumber)|
 | 1       | 28 | [Inverted Triangle](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/InvertedTriangle)|
 | 1       | 29 | [Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PrimeNumber)|
+| 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
 #### Frontend Phase
 
 ...waiting
