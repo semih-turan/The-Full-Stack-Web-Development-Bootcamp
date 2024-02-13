@@ -46,7 +46,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 29 | [Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PrimeNumber)|
 | 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
 | 2       | 1  | [Polindrome](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/Polindrome)|
-
+| 2       | 2  | [Advance Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/AdvanceCalculator)|
 #### Frontend Phase
 
 ...waiting
