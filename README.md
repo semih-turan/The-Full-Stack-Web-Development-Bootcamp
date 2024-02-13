@@ -47,6 +47,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
 | 2       | 1  | [Polindrome](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/Polindrome)|
 | 2       | 2  | [Advance Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/AdvanceCalculator)|
+| 2       | 3  | [Recursive Exponential](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursiveExponential)|
 #### Frontend Phase
 
 ...waiting
