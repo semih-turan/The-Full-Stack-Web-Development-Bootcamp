@@ -49,6 +49,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 2       | 2  | [Advance Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/AdvanceCalculator)|
 | 2       | 3  | [Recursive Exponential](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursiveExponential)|
 | 2       | 4  | [Recursive Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePrimeNumber)|
+| 2       | 5  | [Recursive Pattern](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePattern)|
 #### Frontend Phase
 
 ...waiting
