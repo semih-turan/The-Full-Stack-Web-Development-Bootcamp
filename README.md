@@ -12,6 +12,9 @@ This repository serves as a comprehensive record of my learning journey, designe
 ### Table of Contents
 
 #### Backend Phase
+ <details>
+<summary>Week 1 Practices</summary>
+<br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
@@ -45,11 +48,23 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 28 | [Inverted Triangle](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/InvertedTriangle)|
 | 1       | 29 | [Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PrimeNumber)|
 | 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
+
+</details>
+
+<details open>
+<summary>Week 2 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
 | 2       | 1  | [Polindrome](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/Polindrome)|
 | 2       | 2  | [Advance Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/AdvanceCalculator)|
 | 2       | 3  | [Recursive Exponential](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursiveExponential)|
 | 2       | 4  | [Recursive Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePrimeNumber)|
 | 2       | 5  | [Recursive Pattern](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePattern)|
+
+</details>
+
 #### Frontend Phase
 
 ...waiting
