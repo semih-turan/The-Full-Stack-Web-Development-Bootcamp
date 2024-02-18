@@ -9,5 +9,6 @@ public class Main {
 
         // Print employee information
         employee.printEmployee();
+
     }
 }
