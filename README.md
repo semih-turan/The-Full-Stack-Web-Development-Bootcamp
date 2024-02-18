@@ -53,6 +53,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 1       | 29 | [Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PrimeNumber)|
 | 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
 | 1       | 31 | [Precedence](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Precedence)|
+| 1       | 32 | [Casting](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Casting)|
 
 </details>
 
