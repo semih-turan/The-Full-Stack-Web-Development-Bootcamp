@@ -69,6 +69,8 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 2       | 6  | [Recursive Pattern Second](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePatternSecond)|
 | 2       | 7  | [Student Information System](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/StudentInformationSystem)|
 | 2       | 8  | [Boxer Game](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/BoxerGame)|
+| 2       | 9  | [Salary Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/SalaryCalculator)|
+
 </details>
 
 #### Frontend Phase
