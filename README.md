@@ -74,7 +74,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 2       | 9  | [Salary Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/SalaryCalculator)|
 | 2       | 10 | [Harmonic Average](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/HarmonicAverage)||
 | 2       | 11 | [Nearest Max Min](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/NearestMaxMin)|
-
+| 2       | 12 | [PrintsB](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/PrintsB)|
 </details>
 
 #### Frontend Phase
