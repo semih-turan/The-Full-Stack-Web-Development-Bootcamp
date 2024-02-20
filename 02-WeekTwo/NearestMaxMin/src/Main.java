@@ -22,7 +22,19 @@ public class Main {
 
         // Printing result
         System.out.println(Arrays.toString(arr));
-        System.out.println("Minimum value is " + arr[(-(insertionPoint) - 1)-1]);
-        System.out.println("Maximum value is  " + arr[(-(insertionPoint) - 1)]);
+       while (true){
+           if((-(insertionPoint) - 1) == 0){
+               System.out.println("Minimum value is " + arr[0]);
+               System.out.println("Maximum value is  " + arr[0]);
+               break;
+           } else if ( (-(insertionPoint) - 1) >= arr.length) {
+               System.out.println("Minimum value is " + arr[arr.length-1]);
+               System.out.println("Maximum value is  " + arr[arr.length-1]);
+               break;
+           }
+           System.out.println("Minimum value is " + arr[(-(insertionPoint) - 1)-1]);
+           System.out.println("Maximum value is  " + arr[(-(insertionPoint) - 1)]);
+           break;
+       }
     }
 }
