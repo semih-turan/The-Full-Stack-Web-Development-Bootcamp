@@ -79,6 +79,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 2       | 14 | [Sorting Arrays](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/SortingArrays)|
 | 2       | 15 | [Freq Arrays](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/FreqArrays)|
 | 2       | 16 | [Matrix Transpose](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/MatrixTranspose)|
+| 2       | 17 | [Guess Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/GuessNumber)|
 </details>
 
 #### Frontend Phase
