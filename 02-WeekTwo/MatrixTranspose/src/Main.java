@@ -32,12 +32,23 @@ public class Main {
     // Method to prompt matrix elements from the user
     public static int[][] promptMatrix(){
         Scanner input = new Scanner(System.in);
+        int rowIndex;
+        int colIndex;
 
-        // Prompt the user to enter the number of rows and columns
-        System.out.print("Please enter row index of matrix: ");
-        int rowIndex = input.nextInt();
-        System.out.print("Please enter column index of matrix: ");
-        int colIndex = input.nextInt();
+        do {
+            // Prompt the user to enter the number of rows and columns
+            System.out.print("Please enter row index of matrix: ");
+            rowIndex = input.nextInt();
+            System.out.print("Please enter column index of matrix: ");
+            colIndex = input.nextInt();
+
+            // Check if both row and column indices are positive
+            if (rowIndex > 0 && colIndex > 0) {
+                break; // Break the loop if both indices are positive
+            } else {
+                System.out.println("Row and column indices must be greater than 0. Please try again.");
+            }
+        } while (true);
 
         // Create a matrix with the specified dimensions
         int[][] matrix = new int[rowIndex][colIndex];
