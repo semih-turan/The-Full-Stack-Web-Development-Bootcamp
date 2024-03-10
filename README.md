@@ -83,13 +83,23 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 2       | 18 | [Palindrome Words](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/PalindromeWords)|
 </details>
 
- <details open>
+ <details>
 <summary>Week 3 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 3       | 1  | [Mine Sweeper Game](https://github.com/semih-turan/Mine-Sweeper-Game)|
+
+</details>
+
+<details open>
+<summary>Week 4 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 4       | 1  | [Adventure Game]()|
 
 </details>
 
