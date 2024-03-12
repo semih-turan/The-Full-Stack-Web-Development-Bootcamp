@@ -93,7 +93,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 4 Practices</summary>
 <br>
 
@@ -101,6 +101,16 @@ This repository serves as a comprehensive record of my learning journey, designe
 |:---:    |---:|:----         |
 | 4       | 1  | [Adventure Game](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/04-WeekFour/AdventureGame)|
 | 4       | 2  | [List](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/04-WeekFour/List)|
+
+</details>
+
+<details open>
+<summary>Week 5 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 5       | 1  | [Try Catch Block](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/TryCatchBlock)|
 
 </details>
 
