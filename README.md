@@ -111,6 +111,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 5       | 1  | [Try Catch Block](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/TryCatchBlock)|
+| 5       | 2  | [Book Sorter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/BookSorter)|
 
 </details>
 
