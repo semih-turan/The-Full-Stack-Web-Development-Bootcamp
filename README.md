@@ -124,7 +124,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 6       | 1  |[SQL Five](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/SQLFive)|
+| 6       | 1  |[SQL Five](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekSix/SQLFive)|
 
 </details>
 
