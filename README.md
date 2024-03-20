@@ -104,7 +104,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 5 Practices</summary>
 <br>
 
@@ -118,6 +118,15 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
+<details open>
+<summary>Week 6 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 6       | 1  |[SQL Five](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/SQLFive)|
+
+</details>
 
 #### Frontend Phase
 
