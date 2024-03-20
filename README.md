@@ -114,7 +114,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 5       | 2  | [Book Sorter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/BookSorter)|
 | 5       | 3  | [Word Frequency](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/WordFrequency)|
 | 5       | 4  | [Patika Store](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/PatikaStore)|
-| 5       | 5  |[SQL Assignments](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/SQLAssignments)|
+| 5       | 5  |[SQL Assignments One](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/05-WeekFive/SQLAssignmentsOne)|
 
 </details>
 
@@ -124,7 +124,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 6       | 1  |[SQL Five](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/SQLFive)|
+| 6       | 1  |[SQL Assignments Two](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/SQLAssignmentsTwo)|
 
 </details>
 
