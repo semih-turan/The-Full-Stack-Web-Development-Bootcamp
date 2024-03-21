@@ -125,6 +125,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 6       | 1  |[SQL Assignments Two](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/SQLAssignmentsTwo)|
+| 6       | 2  |[SQL Assignments Three](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/SQLAssignmentsThree)|
 
 </details>
 
