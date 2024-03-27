@@ -128,6 +128,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 6       | 2  |[SQL Assignments Three](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/SQLAssignmentsThree)|
 | 6       | 3  | [File Read Sum](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/FileReadSum)|
 | 6       | 4  | [Notepad](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/Notepad)|
+| 6       | 5  | [JDBCDB](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/JDBCDB)|
 
 </details>
 
