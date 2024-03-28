@@ -1,6 +1,8 @@
 package view;
 
+import business.UserManager;
 import core.Helper;
+import entity.User;
 
 import javax.swing.*;
 import java.awt.*;
@@ -18,8 +20,10 @@ public class LoginView extends JFrame{
     private JButton btn_login;
     private JLabel lbl_username;
     private JLabel lbl_password;
+    private final UserManager userManager;
 
     public LoginView()  {
+        this.userManager = new UserManager();
         this.add(container);
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         this.setTitle("Rent A Car");
@@ -31,6 +35,13 @@ public class LoginView extends JFrame{
             JTextField[] checkFieldList = {this.fld_username, this.fld_password};
             if(Helper.isFieldEmpty(checkFieldList)){
                Helper.showMessage("fill");
+            }else {
+                User loginUser = this.userManager.findByLogin(this.fld_username.getText(),this.fld_password.getText());
+                if(loginUser == null){
+                    Helper.showMessage("notFound");
+                }else{
+                    System.out.println(loginUser.toString());
+                }
             }
 
 
