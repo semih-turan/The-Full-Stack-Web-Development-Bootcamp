@@ -9,7 +9,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class LoginView extends JFrame{
+public class LoginView extends Layout{
     private JPanel container;
     private JPanel w_top;
     private JLabel lbl_welcome;
@@ -25,26 +25,21 @@ public class LoginView extends JFrame{
     public LoginView()  {
         this.userManager = new UserManager();
         this.add(container);
-        this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        this.setTitle("Rent A Car");
-        this.setSize(400,400);
-        this.setLocation(Helper.getLocationPoint("x",this.getSize()),Helper.getLocationPoint("y",this.getSize()));
-        this.setVisible(true);
+        this.guiInitilaze(400,400);
 
         btn_login.addActionListener(e -> {
             JTextField[] checkFieldList = {this.fld_username, this.fld_password};
             if(Helper.isFieldEmpty(checkFieldList)){
                Helper.showMessage("fill");
             }else {
-                User loginUser = this.userManager.findByLogin(this.fld_username.getText(),this.fld_password.getText());
+                User loginUser = this.userManager.findByLogin(this.fld_username.getText().trim(),this.fld_password.getText().trim());
                 if(loginUser == null){
                     Helper.showMessage("notFound");
                 }else{
-                    System.out.println(loginUser.toString());
+                    AdminView adminView = new AdminView(loginUser);
+                    dispose(); // Close windows
                 }
             }
-
-
         });
     }
 }
