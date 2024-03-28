@@ -6,13 +6,10 @@ import java.sql.SQLException;
 
 public class Db {
     private Connection connection = null;
+    private static Db instance = null;
     private final String DB_URL = "jdbc:postgresql://localhost:5432/rentacar";
     private final String DB_USERNAME = "postgres";
     private final String DB_PASSWORD = "postgres";
-
-    public Connection getConnection() {
-        return connection;
-    }
 
     private Db(){
         try{
@@ -24,4 +21,20 @@ public class Db {
             System.out.println(e.getMessage());
         }
     }
+
+    public Connection getConnection() {
+        return connection;
+    }
+
+    public static Connection getInstance()  {
+        try {
+            if(instance == null || instance.getConnection().isClosed()){
+                instance = new Db();
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+        return instance.getConnection();
+    }
+
 }
