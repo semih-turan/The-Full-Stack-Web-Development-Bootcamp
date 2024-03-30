@@ -38,6 +38,10 @@ public class Helper {
                 msg = "Record not found!";
                 yield "Not Found";
             }
+            case "error" ->{
+                msg = "You have made a mistake";
+                yield "Error";
+            }
             default -> {
                 msg = str;
                 yield "Message";
@@ -46,6 +50,17 @@ public class Helper {
 
         JOptionPane.showMessageDialog(null,msg,
                 title,JOptionPane.INFORMATION_MESSAGE);
+    }
+
+    public static boolean confirm(String str){
+        // optionPaneTR();
+        String msg;
+        if(str.equals("sure")){
+            msg = "Are you sure you want to do this? ";
+        }else{
+            msg = str;
+        }
+        return JOptionPane.showConfirmDialog(null,msg,"Are you sure?",JOptionPane.YES_NO_OPTION)==0;
     }
 
     public static boolean isFieldEmpty(JTextField[] fieldList){
@@ -61,5 +76,12 @@ public class Helper {
             case "y" -> (Toolkit.getDefaultToolkit().getScreenSize().height - size.height) / 2;
             default -> 0;
         };
+    }
+
+    public static void optionPaneTR(){
+        UIManager.put("OptionPane.okButtonText","Tamam");
+        UIManager.put("OptionPane.yesButtonText","Evet");
+        UIManager.put("OptionPane.noButtonText","Hayır");
+
     }
 }
