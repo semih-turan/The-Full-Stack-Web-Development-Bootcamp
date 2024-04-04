@@ -9,12 +9,12 @@ import java.util.ArrayList;
 
 public class BookDao {
 
-    private Connection con; // Connection object for database operations
+    private Connection connection; // Connection object for database operations
     private final CarDao carDao; // CarDao instance for handling car-related operations
 
     // Constructor to initialize BookDao and CarDao
     public BookDao() {
-        this.con = Database.getInstance(); // Get a database connection instance
+        this.connection = Database.getInstance(); // Get a database connection instance
         this.carDao = new CarDao(); // Initialize CarDao instance
     }
 
@@ -28,7 +28,7 @@ public class BookDao {
     public ArrayList<Book> selectByQuery(String query) {
         ArrayList<Book> books = new ArrayList<>();
         try {
-            ResultSet rs = this.con.createStatement().executeQuery(query);
+            ResultSet rs = this.connection.createStatement().executeQuery(query);
             // Iterate through the result set and add each book to the list
             while (rs.next()) {
                 books.add(this.match(rs)); // Convert ResultSet to Book object and add to the list
@@ -56,7 +56,7 @@ public class BookDao {
                 ")" +
                 "VALUES(?,?,?,?,?,?,?,?,?,?)"; // SQL query to insert a new book
         try {
-            PreparedStatement ps = this.con.prepareStatement(query);
+            PreparedStatement ps = this.connection.prepareStatement(query);
             // Set values for parameters in the prepared statement
             ps.setInt(1, book.getCar_id());
             ps.setString(2, book.getName());
@@ -100,7 +100,7 @@ public class BookDao {
         Book obj = null;
         String query = "SELECT * FROM public.book WHERE book_id = ?"; // SQL query to select a book by ID
         try {
-            PreparedStatement ps = this.con.prepareStatement(query);
+            PreparedStatement ps = this.connection.prepareStatement(query);
             ps.setInt(1, id);
             ResultSet rs = ps.executeQuery();
             if (rs.next()) {
@@ -116,7 +116,7 @@ public class BookDao {
     public boolean delete(int id) {
         String query = "DELETE FROM public.book WHERE book_id = ?"; // SQL query to delete a book by ID
         try {
-            PreparedStatement ps = this.con.prepareStatement(query);
+            PreparedStatement ps = this.connection.prepareStatement(query);
             ps.setInt(1, id);
             // Execute the update and return true if successful
             return ps.executeUpdate() != -1;

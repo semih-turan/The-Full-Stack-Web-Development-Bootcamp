@@ -5,8 +5,6 @@ import core.Helper;
 import entity.User;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 // Represents the graphical user interface for user login
 public class LoginGUI extends Layout {

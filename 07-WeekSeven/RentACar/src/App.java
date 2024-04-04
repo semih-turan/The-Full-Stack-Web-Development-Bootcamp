@@ -1,10 +1,5 @@
 import business.UserManager;
-import core.Database;
-import view.AdminGUI;
 import view.LoginGUI;
-
-import java.sql.Connection;
-import java.sql.DriverManager;
 
 // Entry point of the application
 public class App {
