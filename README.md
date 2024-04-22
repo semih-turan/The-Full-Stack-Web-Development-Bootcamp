@@ -118,7 +118,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 6 Practices</summary>
 <br>
 
@@ -130,6 +130,48 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 6       | 4  | [Notepad](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/Notepad)|
 | 6       | 5  | [JDBCDB](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/06-WeekSix/JDBCDB)|
 
+</details>
+
+<details>
+<summary>Week 7 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 7       | 1  |[Rent a Car](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/07-WeekSeven/RentACar)|
+
+
+</details>
+
+<details>
+<summary>Week 8 Practices</summary>
+<br>
+
+- Feast of Ramadan
+</details>
+
+
+<details>
+<summary>Week 9 Practices</summary>
+<br>
+
+- Travel Agency Management Project
+</details>
+
+<details>
+<summary>Week 10 Practices</summary>
+<br>
+
+- Travel Agency Management Project
+</details>
+
+<details>
+<summary>Week 11 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 11      | 1  |[]()|
 </details>
 
 #### Frontend Phase
