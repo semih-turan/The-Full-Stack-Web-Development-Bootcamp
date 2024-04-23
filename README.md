@@ -155,23 +155,27 @@ This repository serves as a comprehensive record of my learning journey, designe
 <summary>Week 9 Practices</summary>
 <br>
 
-- Travel Agency Management Project
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 9       | 1  | [Tourism Agency Management](https://github.com/semih-turan/Tourism-Agency-Management)|
 </details>
 
 <details>
 <summary>Week 10 Practices</summary>
 <br>
 
-- Travel Agency Management Project
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 10       | 1  | [Tourism Agency Management](https://github.com/semih-turan/Tourism-Agency-Management)|
 </details>
 
-<details>
+<details open>
 <summary>Week 11 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 11      | 1  |[]()|
+| 11      | 1  |[Library Management System (Waiting for love...)](https://www.youtube.com/watch?v=dRKQf_BtbkM)|
 </details>
 
 #### Frontend Phase
