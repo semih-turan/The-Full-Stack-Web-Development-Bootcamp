@@ -175,7 +175,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 11      | 1  |[Library Management System (Waiting for love...)](https://www.youtube.com/watch?v=dRKQf_BtbkM)|
+| 11      | 1  |[Library Management System](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/11-WeekEleven/LibraryManagementSystem)|
 </details>
 
 #### Frontend Phase
