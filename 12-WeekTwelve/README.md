@@ -15,7 +15,7 @@ This project provides a REST API capable of performing CRUD (Create, Read, Updat
 1. **Clone the Project**
 
     ```
-    git clone https://github.com/semih-turan/LibraryManagementAPI.git
+    git clone https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/12-WeekTwelve/LibraryManagementAPI
     ```
 
 2. **Database Setup**
