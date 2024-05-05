@@ -169,13 +169,22 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 10       | 1  | [Tourism Agency Management](https://github.com/semih-turan/Tourism-Agency-Management)|
 </details>
 
-<details open>
+<details>
 <summary>Week 11 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 11      | 1  |[Library Management System](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/11-WeekEleven/LibraryManagementSystem)|
+</details>
+
+<details open>
+<summary>Week 12 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 12      | 1  |[Library Management API](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/11-WeekEleven/LibraryManagementAPI)|
 </details>
 
 #### Frontend Phase
