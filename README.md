@@ -184,7 +184,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 12      | 1  |[Library Management API](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/11-WeekEleven/LibraryManagementAPI)|
+| 12      | 1  |[Library Management API](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/12-WeekTwelve/LibraryManagementAPI)|
 </details>
 
 #### Frontend Phase
