@@ -178,7 +178,8 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 11      | 1  |[Library Management System](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/11-WeekEleven/LibraryManagementSystem)|
 </details>
 
-<details open>
+<details>
+
 <summary>Week 12 Practices</summary>
 <br>
 
@@ -187,9 +188,42 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 12      | 1  |[Library Management API](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/12-WeekTwelve/LibraryManagementAPI)|
 </details>
 
+<details>
+<summary>Week 13 Practices</summary>
+<br>
+
+- Project Week
+
+</details>
+
+<details>
+<summary>Week 14 Practices</summary>
+<br>
+
+- Project Week
+
+</details>
+
+<details open>
+<summary>Week 15 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 15     | 1  |[Veterinary Management System API](https://github.com/semih-turan/Veterinary-Management-System-API)|
+</details>
+
 #### Frontend Phase
 
-...waiting
+<details open>
+<summary>Pre-Work</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| -       | 1  |[Pre-Work-Task](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/Pre-Work/Pre-Work-Task)|
+
+</details>
 
 ---
 
