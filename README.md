@@ -204,7 +204,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 15 Practices</summary>
 <br>
 
@@ -215,13 +215,23 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 #### Frontend Phase
 
-<details open>
+<details>
 <summary>Pre-Work</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | -       | 1  |[Pre-Work-Task](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/Pre-Work/Pre-Work-Task)|
+
+</details>
+
+<details open>
+<summary>Pre-Work</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 17       | 1  |[Working-with-Tables](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Working-with-Tables)|
 
 </details>
 
