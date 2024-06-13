@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/submit_form.html" method="get">
+        <!-- Text Input -->
+        <label for="fname">Name:</label><br>
+        <input type="text" id="fname" name="fname" required><br>
+
+        <label for="lname">Surname:</label><br>
+        <input type="text" id="lname" name="lname" required><br>
+
+        <!-- Email Input -->
+        <label for="email">E-mail:</label><br>
+        <input type="email" id="email" name="email" required><br>
+
+        <!-- Password Input -->
+        <label for="pwd">Password:</label><br>
+        <input type="password" id="pwd" name="pwd" minlength="8" required><br>
+
+        <!-- Radio Button Input -->
+        <p>Gender:</p>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="male">Male</label><br>
+        
+        <input type="radio" id="female" name="gender" value="female" required>
+        <label for="female">Female</label><br>
+        
+        <input type="radio" id="non-binary" name="gender" value="female" required>
+        <label for="non-binary">Non-binary</label><br>
+        
+        <input type="radio" id="other" name="gender" value="female" required>
+        <label for="other">Other</label><br>
+
+        <!-- Select Input -->
+        <label for="fruit">Favourite Fruits:</label><br>
+        <select id="fruit" name="fruit">
+            <option value="apple">Apple</option>
+            <option value="banana">Banana</option>
+            <option value="strawberry">Strawberry</option>
+        </select><br>
+
+        <!-- Textarea Input -->
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea><br>
+        
+        <!-- Submit Button -->
+        <input type="submit" value="Gönder">
+    </form>
+</body>
+</html>
