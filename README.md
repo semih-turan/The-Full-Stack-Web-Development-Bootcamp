@@ -236,6 +236,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 17       | 3  |[First-Web-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/First-Web-Site)|
 | 17       | 4  |[Personal-Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Personal-Blog)|
 
+
 </details>
 
 ---
