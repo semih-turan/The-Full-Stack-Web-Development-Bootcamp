@@ -246,7 +246,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteent/Blog)|
+| 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/Blog)|
 
 </details>
 
