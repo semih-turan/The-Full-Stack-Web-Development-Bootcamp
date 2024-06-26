@@ -225,8 +225,8 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
-<summary>Pre-Work</summary>
+<details>
+<summary>Week 17 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
@@ -234,6 +234,16 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 17       | 1  |[Working-with-Tables](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Working-with-Tables)|
 | 17       | 2  |[Form-Usage](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Form-Usage)|
 | 17       | 3  |[First-Web-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/First-Web-Site)|
+
+</details>
+
+<details open>
+<summary>Week 18 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteent/Blog)|
 
 </details>
 
