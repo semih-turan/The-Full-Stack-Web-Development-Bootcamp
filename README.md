@@ -234,6 +234,9 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 17       | 1  |[Working-with-Tables](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Working-with-Tables)|
 | 17       | 2  |[Form-Usage](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Form-Usage)|
 | 17       | 3  |[First-Web-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/First-Web-Site)|
+| 17       | 4  |[Personal-Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Personal-Blog)|
+| 17       | 5  |[Dev-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Dev-Site)|
+
 
 </details>
 
