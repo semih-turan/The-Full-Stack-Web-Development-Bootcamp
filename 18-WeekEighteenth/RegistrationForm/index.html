@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Örneği</title>
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #survey-form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type=text],
+        input[type=email],
+        input[type=number],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            padding-right: 30px;
+        }
+        select {
+            height: 40px;
+        }
+        input[type=radio],
+        input[type=checkbox] {
+            margin-right: 5px;
+        }
+        textarea {
+            resize: vertical;
+        }
+        input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            position: relative;
+        }
+        input[type=submit]:hover {
+            background-color: #45a049;
+        }
+        .fa-icon {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="title">Form Title</h1>
+    
+    <div id="survey-form-container">
+        <p id="description">This form is a sample form. Please fill in your required information.</p>
+        
+        <form id="survey-form">
+            <i class="fa-solid fa-user"></i>
+            <label for="name" id="name-label">Full Name:</label>
+            <input type="text" id="name" placeholder="John Doe" required>
+            
+            <i class="fa-solid fa-envelope"></i>
+            <label for="email" id="email-label">E-mail:</label>
+            <input type="email" id="email" placeholder="john@doe.com" required>
+            
+            <i class="fa-solid fa-cake-candles"></i>
+            <label for="number" id="number-label">Age:</label>
+            <input type="number" id="number" placeholder="19" min="18" max="100" required>
+            
+            <i class="fa-solid fa-caret-down"></i>
+            <label for="dropdown" id="dropdown-label">Choose:</label>
+            <select id="dropdown">
+                <option value="option1">Select 1</option>
+                <option value="option2">Select 2</option>
+            </select>
+            
+
+            <fieldset>
+                <legend id="radio-label"> <i class="fa-solid fa-circle-dot"></i> Radio Buttons</legend>
+                <input type="radio" name="radio-group" id="radio1" value="radio1">
+                <label for="radio1">Select 1</label>
+                <input type="radio" name="radio-group" id="radio2" value="radio2">
+                <label for="radio2">Select 2</label>
+            </fieldset>
+            
+            <fieldset>
+                <legend id="checkbox-label"><i class="fa-solid fa-square-check"></i> Check Boxes:</legend>
+                <input type="checkbox" id="checkbox1" value="option1">
+                <label for="checkbox1">Select 1</label>
+                <input type="checkbox" id="checkbox2" value="option2">
+                <label for="checkbox2">Select 2</label>
+            </fieldset>
+            
+            <i class="fa-solid fa-comment"></i>
+            <label for="comments">Additional Comments:</label>
+            <textarea id="comments" rows="4" placeholder="You can write here where you want to add..."></textarea>
+            <input type="submit" id="submit" value="Submit">
+            
+        </form>
+    </div>
+
+</body>
+</html>
