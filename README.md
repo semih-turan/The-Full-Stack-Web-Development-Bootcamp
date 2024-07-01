@@ -235,7 +235,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 17       | 2  |[Form-Usage](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Form-Usage)|
 | 17       | 3  |[First-Web-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/First-Web-Site)|
 | 17       | 4  |[Personal-Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Personal-Blog)|
-| 17       | 5  |[Dev-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/17-WeekSeventeeth/Dev-Site)|
+| 17       | 5  |[Dev-Site](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/TributeWebsite)|
 
 
 </details>
@@ -247,6 +247,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/Blog)|
+| 18       | 2  |[Tribute Website](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/Blog)|
 
 </details>
 
