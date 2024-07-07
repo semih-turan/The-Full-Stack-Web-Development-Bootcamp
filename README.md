@@ -240,15 +240,25 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 18 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/Blog)|
-| 18       | 2  |[Tribute Website](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/Blog)|
-| 18       | 3  |[Registration Form](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteenth/RegistrationForm)|
+| 18       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteeth/Blog)|
+| 18       | 2  |[Tribute Website](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteeth/Blog)|
+| 18       | 3  |[Registration Form](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/18-WeekEighteeth/RegistrationForm)|
+
+</details>
+
+<details open>
+<summary>Week 19 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 19       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/19-WeekNineteeth/InstagramClone)|
 
 </details>
 
