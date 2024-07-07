@@ -252,7 +252,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 19 Practices</summary>
 <br>
 
@@ -260,6 +260,16 @@ This repository serves as a comprehensive record of my learning journey, designe
 |:---:    |---:|:----         |
 | 19       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/19-WeekNineteeth/InstagramClone)|
 | 19       | 2  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/19-WeekNineteeth/Blog)|
+
+</details>
+
+<details open>
+<summary>Week 20 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 20       | 1  |[Blog](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/20-WeekTwentieth/LandingPage)|
 
 </details>
 
