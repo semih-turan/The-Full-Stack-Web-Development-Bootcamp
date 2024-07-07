@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="bg-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
+          <div class="flex justify-between items-center h-16">
+            <a href="#" class="text-text m-1 ml-5 font-bold text-xl">Logo</a>
+            <ul class="flex items-center">
+              <li><a href="#" class="text-black px-4 py-2 hover:bg-gray-200">Home</a></li>
+              <li><a href="#" class="text-black px-4 py-2 hover:bg-gray-200">About</a></li>
+              <li><a href="#" class="text-black px-4 py-2 hover:bg-gray-200">Services</a></li>
+              <li><a href="#" class="inline-block bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded transition duration-300">Sign up</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    
+<!-- Grid Layout -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-12 gap-4">
+      <!-- Left Column (3/12) -->
+      <div class="col-span-12 md:col-span-3 flex flex-col justify-center items-center bg-white p-6 rounded-lg shadow-lg text-center">
+        <h5 class="text-sm font-semibold text-gray-700">Small Title</h5>
+        <h1 class="text-3xl font-bold text-gray-900 mt-4">Big Title</h1>
+        <p class="mt-4 text-gray-600">This is a description line one.</p>
+        <p class="mt-2 text-gray-600">This is a description line two.</p>
+        <div class="mt-6 w-full">
+          <input type="text" placeholder="Name" class="w-full p-2 border border-gray-300 rounded mt-4">
+          <input type="email" placeholder="Email" class="w-full p-2 border border-gray-300 rounded mt-4">
+        </div>
+        <button class="mt-6 px-6 py-3 bg-purple-600 text-white rounded-md hover:bg-purple-700">Join the Waitlist</button>
+      </div>
+      <!-- Right Column (9/12) -->
+      <div class="col-span-12 md:col-span-9">
+        <img src="https://via.placeholder.com/800x600" alt="Sample Image" class="w-full h-full object-cover rounded-lg shadow-lg">
+      </div>
+    </div>
+  </div>
+
+ <!-- Additional Titles -->
+ <div class="text-center mt-12">
+    <h5 class="text-sm font-semibold text-gray-700">This is a small subtitle</h5>
+    <h1 class="text-4xl font-bold text-gray-900 mt-4">This is a large title</h1>
+  </div>
+</div>
+
+    <!-- Cards Section -->
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <!-- Card 1 -->
+        <div class="bg-white p-6 rounded-lg shadow-lg">
+          <div class="flex items-center mb-4">
+            <div class="h-10 w-10 flex items-center justify-center bg-purple-600 text-white rounded-full">
+              1
+            </div>
+          </div>
+          <p class="text-gray-600 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p class="text-gray-600 text-left">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <!-- Card 2 -->
+        <div class="bg-white p-6 rounded-lg shadow-lg">
+          <div class="flex items-center mb-4">
+            <div class="h-10 w-10 flex items-center justify-center bg-purple-600 text-white rounded-full">
+              2
+            </div>
+          </div>
+          <p class="text-gray-600 text-left">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+          <p class="text-gray-600 text-left">Nisi ut aliquip ex ea commodo consequat.</p>
+          <p class="text-gray-600 text-left">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+        <!-- Card 3 -->
+        <div class="bg-white p-6 rounded-lg shadow-lg">
+          <div class="flex items-center mb-4">
+            <div class="h-10 w-10 flex items-center justify-center bg-purple-600 text-white rounded-full">
+              3
+            </div>
+          </div>
+          <p class="text-gray-600 text-left">Excepteur sint occaecat cupidatat non proident.</p>
+          <p class="text-gray-600 text-left">Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+      </div>
+    </div>
+
+   <!-- Testimonials Section -->
+   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- Testimonial Image -->
+    <div class="bg-white p-6 rounded-lg shadow-lg">
+      <img src="https://via.placeholder.com/640x480" alt="User Image" class="w-full h-auto rounded-lg">
+    </div>
+    <!-- Testimonial Content -->
+    <div class="bg-white p-6 rounded-lg shadow-lg flex flex-col justify-center items-center">
+      <img src="https://via.placeholder.com/100" alt="User Avatar" class="w-20 h-20 rounded-full mb-4">
+      <blockquote class="text-xl font-semibold text-gray-800 text-center">
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      </blockquote>
+      <p class="text-gray-600 mt-4">John Doe</p>
+      <p class="text-gray-600">CEO of Company Co.</p>
+      <div class="mt-4 flex justify-center items-center">
+        <div class="h-2.5 w-2.5 bg-gray-400 rounded-full mx-1"></div>
+        <div class="h-2.5 w-2.5 bg-gray-400 rounded-full mx-1"></div>
+        <div class="h-2.5 w-2.5 bg-gray-400 rounded-full mx-1"></div>
+        <div class="h-2.5 w-2.5 bg-gray-400 rounded-full mx-1"></div>
+      </div>
+    </div>
+  </div>
+  
+
+ <!-- Single Card Below Testimonials -->
+ <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 grid grid-cols-1 gap-8">
+    <!-- Single Card -->
+    <div class="bg-white p-6 rounded-lg shadow-lg">
+      <h2 class="text-3xl font-bold text-left text-gray-900">Single Card Title</h2>
+      <p class="text-gray-600 mt-4 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.</p>
+      <p class="text-gray-600 mt-2 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.</p>
+      <p class="text-gray-600 mt-2 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.</p>
+    </div>
+  </div>
+
+
+  <!-- Business Card -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+      <div class="grid grid-cols-12">
+        <!-- Image (8/12) -->
+        <div class="col-span-12 md:col-span-8">
+          <img src="https://via.placeholder.com/640x480" alt="Business Image" class="w-full h-full object-cover">
+        </div>
+        <!-- Content (4/12) -->
+        <div class="col-span-12 md:col-span-4 p-6 flex flex-col justify-between">
+          <div>
+            <span class="bg-purple-600 text-white rounded-full px-2 py-1 text-xs mb-2 inline-block">Business</span>
+            <h3 class="text-lg font-bold text-gray-900">Title</h3>
+          </div>
+          <div>
+            <p class="text-gray-600 mt-2">November 30, 2020</p>
+            <p class="text-gray-600">By Leroy Jenkins</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+   <!-- Three Cards Below Business Card -->
+   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <!-- Card 1 -->
+    <div class="bg-white rounded-lg shadow-lg p-6 flex items-start justify-center">
+      <p class="text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, voluptatem.</p>
+    </div>
+    <!-- Card 2 -->
+    <div class="bg-white rounded-lg shadow-lg p-6 flex items-center justify-center">
+      <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur.</p>
+    </div>
+    <!-- Card 3 -->
+    <div class="bg-white rounded-lg shadow-lg p-6 flex items-center justify-center">
+      <p class="text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, et laudantium!</p>
+    </div>
+  </div>
+
+ <!-- Single Card Below Three Cards -->
+ <div class="bg-white rounded-lg shadow-lg p-6 flex flex-col items-center justify-center">
+    <h3 class="text-xl font-bold mb-2">Center Title</h3>
+    <a href="#" class="text-blue-500 mb-4">Small Link Text</a>
+    <div class="w-full">
+      <img src="https://via.placeholder.com/640x480" alt="Placeholder Image" class="w-full max-h-64 object-cover rounded-lg">
+    </div>
+  </div>
+</div>
+
+<footer class="bg-gray-100 text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex justify-between items-center">
+      <!-- Brand Name -->
+      <div class="text-lg text-black font-bold">BrandName</div>
+      <!-- Social Icons -->
+      <div class="flex space-x-4">
+        <a href="#"><img src="https://via.placeholder.com/24" alt="Mail Icon" class="w-6 h-6"></a>
+        <a href="#"><img src="https://via.placeholder.com/24" alt="Twitter Icon" class="w-6 h-6"></a>
+        <a href="#"><img src="https://via.placeholder.com/24" alt="GitHub Icon" class="w-6 h-6"></a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
