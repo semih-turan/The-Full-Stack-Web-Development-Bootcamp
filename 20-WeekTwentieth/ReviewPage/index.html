@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navbar Example</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .nav-link {
+      position: relative;
+    }
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background-color: transparent; /* Initially transparent */
+      transition: background-color 0.3s ease; /* Smooth transition */
+    }
+    .nav-link:hover::after {
+      background-color: #6B46C1; /* Purple color */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="bg-gray-100 border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
+
+      <!-- Left Side: Links with Underline -->
+      <div class="flex">
+        <!-- Link 1 -->
+        <a href="#" class="nav-link text-gray-900 hover:text-purple-600 focus:outline-none focus:text-purple-600 transition duration-300">Link 1</a>
+        
+        <!-- Link 2 -->
+        <a href="#" class="nav-link text-gray-900 hover:text-purple-600 focus:outline-none focus:text-purple-600 transition duration-300 ml-4">Link 2</a>
+        
+        <!-- Link 3 -->
+        <a href="#" class="nav-link text-gray-900 hover:text-purple-600 focus:outline-none focus:text-purple-600 transition duration-300 ml-4">Link 3</a>
+      </div>
+
+      <!-- Center: Logo -->
+      <a href="#" class="text-gray-900 text-lg font-bold">Logo</a>
+
+      <!-- Right Side: Search Bar and Log In Button -->
+      <div class="flex items-center">
+        <!-- Search Bar -->
+        <div class="relative">
+          <input type="text" placeholder="Search..." class="pl-10 pr-4 py-2 w-64 border border-gray-300 rounded-lg focus:outline-none focus:border-purple-600 transition duration-300">
+          <div class="absolute inset-y-0 left-0 flex items-center pl-3">
+            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.998-4.998m-9.025 2.018a9 9 0 111.415-1.414l4.609 4.609a1 1 0 001.414-1.414l-4.61-4.61a9 9 0 11-1.828 1.828"></path></svg>
+          </div>
+        </div>
+
+        <!-- Log In Button -->
+        <a href="#" class="ml-4 px-4 py-2 bg-purple-600 text-white rounded-md hover:bg-purple-700 focus:outline-none focus:bg-purple-700 transition duration-300">Log In</a>
+      </div>
+    </div>
+  </nav>
+
+<!-- Main Content -->
+<div class="bg-gray-200 p-6 rounded-lg shadow-lg">
+    <!-- Title -->
+    <h2 class="mt-12 text-3xl font-bold text-gray-900 text-center">
+      <span class="text-purple-600">Important</span> Title Here
+    </h2>
+    <!-- Description -->
+    <p class="text-gray-700 text-lg mt-4 text-center">
+      This is a two-line description text about the importance of something. It can be more detailed if needed.
+    </p>
+    <!-- Buttons -->
+    <div class="flex justify-center items-center mt-6 mb-12">
+      <a href="#" class="bg-purple-600 text-white px-6 py-3 rounded-md mr-4 hover:bg-purple-700 transition duration-300">Get Started</a>
+      <a href="#" class="text-gray-600 hover:text-purple-600 transition duration-300 mt-1">Learn more</a>
+    </div>
+  </div>
+
+<!-- Başlık -->
+<h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4 text-center">What our customers are saying about us</h2>
+
+<!-- Main Content -->
+<div class="container mx-auto py-8 px-4">
+    <h2 class="text-3xl font-bold text-gray-900 text-center mb-8">Alt Başlık</h2>
+  
+    <div class="flex flex-wrap justify-center">
+      <!-- Card 1 -->
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-6/12 mb-4">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative">
+          <div class="absolute inset-0 bg-white w-full h-1/2"></div>
+          <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
+          <div class="flex justify-center items-center">
+            <div class="w-1/2"></div>
+            <div class="relative z-10 w-full p-6 text-center">
+              <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+              <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+                <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+              </div>
+              <div class="text-white">
+                <p class="font-bold">Adı Soyadı</p>
+                <p>Ünvanı</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Card 2 -->
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-6/12 mb-4">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative">
+          <div class="absolute inset-0 bg-white w-full h-1/2"></div>
+          <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
+          <div class="flex justify-center items-center">
+            <div class="w-1/2"></div>
+            <div class="relative z-10 w-full p-6 text-center">
+              <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+              <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+                <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+              </div>
+              <div class="text-white">
+                <p class="font-bold">Adı Soyadı</p>
+                <p>Ünvanı</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+
+
+
+</body>
+</html>
