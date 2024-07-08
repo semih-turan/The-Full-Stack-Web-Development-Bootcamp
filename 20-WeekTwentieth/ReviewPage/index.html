@@ -22,6 +22,19 @@
     .nav-link:hover::after {
       background-color: #6B46C1; /* Purple color */
     }
+    .footer-link {
+      transition: color 0.3s ease;
+    }
+    .footer-link:hover {
+      color: #6B46C1;
+    }
+    .social-icon {
+      background-color: #6B46C1;
+      transition: background-color 0.3s ease;
+    }
+    .social-icon:hover {
+      background-color: #4A3A8E;
+    }
   </style>
 </head>
 <body>
@@ -87,55 +100,136 @@
   
     <div class="flex flex-wrap justify-center">
       <!-- Card 1 -->
-      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-6/12 mb-4">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative">
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 mb-4 mx-2">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative flex flex-col items-center">
           <div class="absolute inset-0 bg-white w-full h-1/2"></div>
           <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
-          <div class="flex justify-center items-center">
-            <div class="w-1/2"></div>
-            <div class="relative z-10 w-full p-6 text-center">
-              <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
-              <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
-                <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
-              </div>
-              <div class="text-white">
-                <p class="font-bold">Adı Soyadı</p>
-                <p>Ünvanı</p>
-              </div>
+          <div class="relative z-10 w-full p-6 text-center">
+            <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+            <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+              <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+            </div>
+            <div class="text-white">
+              <p class="font-bold">Adı Soyadı</p>
+              <p>Ünvanı</p>
             </div>
           </div>
         </div>
       </div>
   
       <!-- Card 2 -->
-      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-6/12 mb-4">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative">
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 mb-4 mx-2">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative flex flex-col items-center">
           <div class="absolute inset-0 bg-white w-full h-1/2"></div>
           <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
-          <div class="flex justify-center items-center">
-            <div class="w-1/2"></div>
-            <div class="relative z-10 w-full p-6 text-center">
-              <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
-              <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
-                <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
-              </div>
-              <div class="text-white">
-                <p class="font-bold">Adı Soyadı</p>
-                <p>Ünvanı</p>
-              </div>
+          <div class="relative z-10 w-full p-6 text-center">
+            <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+            <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+              <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+            </div>
+            <div class="text-white">
+              <p class="font-bold">Adı Soyadı</p>
+              <p>Ünvanı</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Yeni Satır -->
+    <div class="flex flex-wrap justify-center mt-4">
+      <!-- Card 3 -->
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 mb-4 mx-2">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative flex flex-col items-center">
+          <div class="absolute inset-0 bg-white w-full h-1/2"></div>
+          <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
+          <div class="relative z-10 w-full p-6 text-center">
+            <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+            <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+              <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+            </div>
+            <div class="text-white">
+              <p class="font-bold">Adı Soyadı</p>
+              <p>Ünvanı</p>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Card 4 -->
+      <div class="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 mb-4 mx-2">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden relative flex flex-col items-center">
+          <div class="absolute inset-0 bg-white w-full h-1/2"></div>
+          <div class="absolute inset-x-0 bottom-0 bg-purple-600 w-full h-1/2"></div>
+          <div class="relative z-10 w-full p-6 text-center">
+            <p class="text-gray-700 italic mb-4">"Alıntı metni buraya gelecek."</p>
+            <div class="bg-purple-600 rounded-full overflow-hidden w-20 h-20 flex items-center justify-center mx-auto mb-4">
+              <img src="https://via.placeholder.com/150" alt="Profil Resmi" class="w-full h-full object-cover">
+            </div>
+            <div class="text-white">
+              <p class="font-bold">Adı Soyadı</p>
+              <p>Ünvanı</p>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  
-  
-  
-  
-  
 
+  <!-- Contact Us Form -->
+  <div class="bg-gray-200 py-16">
+    <div class="max-w-md mx-auto bg-white rounded-lg shadow-lg p-8">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 text-center">Contact Us</h2>
+      <form>
+        <div class="mb-4">
+          <label for="name" class="block text-gray-700 font-semibold mb-2">Name</label>
+          <input type="text" id="name" class="w-full border border-gray-300 px-4 py-2 rounded-lg focus:outline-none focus:border-purple-600" placeholder="Your name">
+        </div>
+        <div class="mb-4">
+          <label for="email" class="block text-gray-700 font-semibold mb-2">Email</label>
+          <input type="email" id="email" class="w-full border border-gray-300 px-4 py-2 rounded-lg focus:outline-none focus:border-purple-600" placeholder="Your email">
+        </div>
+        <div class="mb-4">
+          <label for="message" class="block text-gray-700 font-semibold mb-2">Message</label>
+          <textarea id="message" rows="4" class="w-full border border-gray-300 px-4 py-2 rounded-lg focus:outline-none focus:border-purple-600" placeholder="Your message"></textarea>
+        </div>
+        <div class="text-center">
+          <button type="submit" class="bg-purple-600 text-white px-6 py-2 rounded-lg hover:bg-purple-700 focus:outline-none focus:bg-purple-700 transition duration-300">Send Message</button>
+        </div>
+      </form>
+    </div>
+  </div>
 
-
+  <!-- Footer -->
+  <footer class="bg-gray-100 py-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+      <!-- Left Side: Links -->
+      <div class="flex space-x-4">
+        <a href="#" class="footer-link text-gray-700 hover:text-purple-600 transition duration-300">Shop</a>
+        <a href="#" class="footer-link text-gray-700 hover:text-purple-600 transition duration-300">About</a>
+        <a href="#" class="footer-link text-gray-700 hover:text-purple-600 transition duration-300">Blog</a>
+        <a href="#" class="footer-link text-gray-700 hover:text-purple-600 transition duration-300">Pricing</a>
+        <a href="#" class="footer-link text-gray-700 hover:text-purple-600 transition duration-300">Contact</a>
+      </div>
+      <!-- Right Side: Social Icons -->
+      <div class="flex space-x-4">
+        <a href="#" class="social-icon text-white rounded-full p-2">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.5 0-9.96 4.46-9.96 9.96 0 4.45 3.6 8.1 8.18 8.94v-6.34h-2.46v-2.6h2.46v-2.03c0-2.42 1.46-3.76 3.64-3.76 1.06 0 2.17.18 2.17.18v2.4h-1.22c-1.2 0-1.57.75-1.57 1.52v1.69h2.65l-.42 2.6h-2.23v6.34c4.58-.84 8.18-4.49 8.18-8.94 0-5.5-4.46-9.96-9.96-9.96z"/></svg>
+        </a>
+        <a href="#" class="social-icon text-white rounded-full p-2">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.5 0-9.96 4.46-9.96 9.96 0 4.45 3.6 8.1 8.18 8.94v-6.34h-2.46v-2.6h2.46v-2.03c0-2.42 1.46-3.76 3.64-3.76 1.06 0 2.17.18 2.17.18v2.4h-1.22c-1.2 0-1.57.75-1.57 1.52v1.69h2.65l-.42 2.6h-2.23v6.34c4.58-.84 8.18-4.49 8.18-8.94 0-5.5-4.46-9.96-9.96-9.96z"/></svg>
+        </a>
+        <a href="#" class="social-icon text-white rounded-full p-2">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.5 0-9.96 4.46-9.96 9.96 0 4.45 3.6 8.1 8.18 8.94v-6.34h-2.46v-2.6h2.46v-2.03c0-2.42 1.46-3.76 3.64-3.76 1.06 0 2.17.18 2.17.18v2.4h-1.22c-1.2 0-1.57.75-1.57 1.52v1.69h2.65l-.42 2.6h-2.23v6.34c4.58-.84 8.18-4.49 8.18-8.94 0-5.5-4.46-9.96-9.96-9.96z"/></svg>
+        </a>
+        <a href="#" class="social-icon text-white rounded-full p-2">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.5 0-9.96 4.46-9.96 9.96 0 4.45 3.6 8.1 8.18 8.94v-6.34h-2.46v-2.6h2.46v-2.03c0-2.42 1.46-3.76 3.64-3.76 1.06 0 2.17.18 2.17.18v2.4h-1.22c-1.2 0-1.57.75-1.57 1.52v1.69h2.65l-.42 2.6h-2.23v6.34c4.58-.84 8.18-4.49 8.18-8.94 0-5.5-4.46-9.96-9.96-9.96z"/></svg>
+        </a>
+        <a href="#" class="social-icon text-white rounded-full p-2">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.5 0-9.96 4.46-9.96 9.96 0 4.45 3.6 8.1 8.18 8.94v-6.34h-2.46v-2.6h2.46v-2.03c0-2.42 1.46-3.76 3.64-3.76 1.06 0 2.17.18 2.17.18v2.4h-1.22c-1.2 0-1.57.75-1.57 1.52v1.69h2.65l-.42 2.6h-2.23v6.34c4.58-.84 8.18-4.49 8.18-8.94 0-5.5-4.46-9.96-9.96-9.96z"/></svg>
+        </a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
