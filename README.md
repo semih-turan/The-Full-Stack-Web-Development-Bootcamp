@@ -270,6 +270,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 20       | 1  |[Landing Page](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/20-WeekTwentieth/LandingPage)|
+| 20       | 2  |[Review Page](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/20-WeekTwentieth/ReviewPage)|
 
 </details>
 
