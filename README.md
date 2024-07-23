@@ -281,6 +281,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 21       | 1  |[Time and Greeting](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/21-WeekTwentyFirst/Time-and-Greeting)|
+| 21       | 2  |[Drum Kit](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/21-WeekTwentyFirst/Drum-Kit)|
 
 
 </details>
