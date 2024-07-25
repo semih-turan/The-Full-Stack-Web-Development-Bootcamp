@@ -105,3 +105,22 @@ input {
 .button:hover {
   background-color: #bbb;
 }
+
+li {
+  position: relative;
+  padding-right: 40px; /* Space for the close button */
+}
+
+li .close-button {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #fff;
+  display: none; /* Hide the close button by default */
+}
+
+li.checked .close-button {
+  display: inline; /* Show the close button when the list item is clicked */
+}
