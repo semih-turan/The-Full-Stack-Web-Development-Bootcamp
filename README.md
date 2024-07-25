@@ -274,7 +274,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-<details open>
+<details>
 <summary>Week 21 Practices</summary>
 <br>
 
@@ -282,6 +282,16 @@ This repository serves as a comprehensive record of my learning journey, designe
 |:---:    |---:|:----         |
 | 21       | 1  |[Time and Greeting](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/21-WeekTwentyFirst/Time-and-Greeting)|
 | 21       | 2  |[Drum Kit](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/21-WeekTwentyFirst/Drum-Kit)|
+
+</details>
+
+<details open>
+<summary>Week 22 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 22       | 1  |[To-Do App](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/22-WeekTwentySecond/to-do)|
 
 
 </details>
