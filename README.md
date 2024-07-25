@@ -292,6 +292,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 22       | 1  |[To-Do App](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/22-WeekTwentySecond/to-do)|
+| 22       | 2  |[Asian Kitchen](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/22-WeekTwentySecond/asian-kitchen)|
 
 
 </details>
