@@ -296,7 +296,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 </details>
 
 <details open>
-<summary>Week 22 Practices</summary>
+<summary>Week 23 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
