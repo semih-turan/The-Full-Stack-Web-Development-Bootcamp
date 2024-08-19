@@ -295,13 +295,23 @@ This repository serves as a comprehensive record of my learning journey, designe
 | 22       | 2  |[Asian Kitchen](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/22-WeekTwentySecond/asian-kitchen)|
 </details>
 
-<details open>
+<details>
 <summary>Week 23 Practices</summary>
 <br>
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 |23      | 1  |[Responsive Web App](https://github.com/semih-turan/Responsive-Web-App)|
+
+</details>
+
+<details open>
+<summary>Week 24 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+|24      | 1  |[Sports Center](https://github.com/semih-turan/Sports-Center)|
 
 </details>
 
