@@ -1,0 +1,25 @@
+.selam{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  margin: 1% 0%;
+  width: 100%;
+}
+
+.img-header{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3%;
+}
+
+.img-header img{
+  width: 150px;
+  border-radius: 50%;
+}
+
+
+

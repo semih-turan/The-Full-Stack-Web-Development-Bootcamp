@@ -1,0 +1,93 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.card-container{
+    max-width: 300px;
+    max-height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5%;
+}
+
+.card{
+    display: flex;
+    width: 400px;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.item-img-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width:fit-content;
+    height: 150px;
+    padding: 1%;
+}
+
+.item-img-wrapper img{
+    max-width: 100%;
+    max-height: 150px;
+    object-fit: cover;
+}
+
+.item-name{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.item-price{
+    font-size: large;
+    font-weight: 700;
+    color: #24c486;
+}
+
+.item-buttons{
+    display: flex;
+    width: 100%;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
+
+.btn-sell{
+    background-color: #F1F2F6;
+    border: none;
+    border-radius: 5%;
+    padding: 5% 10%;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.item-counter{
+    background-color: white;
+    border: 0.5px solid rgb(179, 179, 179);
+    border-radius: 5%;
+    padding: 5% 0%;
+    width: 75px;
+    height: 30%;
+    text-align:center;
+}
+
+.btn-buy{
+    background-color: #2ccc71;
+    background: linear-gradient(180deg, #2ecc71, #1abc9c);
+    color: black;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 5%;
+    padding: 5% 10%;
+    font-size: medium;
+    font-weight: 600;
+}
+

@@ -1,0 +1,11 @@
+.money-bar{
+    margin: 1% 0%;
+    padding: 2%;
+    background-color: #2ccc71;
+    background: linear-gradient(180deg, #2ecc71, #1abc9c);
+    color: white;
+    font-size: xx-large;
+    font-weight: 700;
+    position: sticky;
+    top: 0px;
+}
